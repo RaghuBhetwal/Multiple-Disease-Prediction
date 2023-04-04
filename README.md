@@ -2,8 +2,11 @@
 # Multiple Disease Prediction Web Application
 link :: https://raghubhetwal-multiple-disease-prediction-mdps-public-d8u8lr.streamlit.app/
 
+### Interface::
+  ![image](https://user-images.githubusercontent.com/88844603/229861299-7598d528-d3f4-442e-9d1b-b1b5e318b40a.png)
 
-## This repository contains code for a web-based disease prediction tool, which can predict the likelihood of developing Heart Disease, Parkinson's Disease, and Diabetes using machine learning models.
+
+## This repository contains code for a web-based(Streamlite) disease prediction tool, which can predict the likelihood of developing Heart Disease, Parkinson's Disease, and Diabetes using machine learning models.
 
 
 # Model Details:
